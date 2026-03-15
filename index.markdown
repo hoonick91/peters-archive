@@ -1,6 +1,25 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Home
+nav_order: 1
 ---
+
+# Peter's Archive
+
+개발, 학습, 그리고 생각을 기록하는 공간입니다.
+
+## 🎯 최근 업데이트
+
+이곳에서 개발하면서 배운 것들, 유용한 팁, 그리고 프로젝트 경험을 공유합니다.
+
+## 📂 카테고리
+
+- **개발**: 코딩, 프로그래밍 관련 내용
+- **학습**: 새로 배운 기술과 지식
+- **프로젝트**: 진행 중인 프로젝트 기록
+- **팁**: 유용한 코드 스니펫과 노하우
+
+---
+
+💡 왼쪽 사이드바에서 원하는 문서를 찾아보세요.
+🔍 검색 기능을 사용하여 빠르게 찾을 수 있습니다.

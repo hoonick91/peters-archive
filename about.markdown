@@ -4,15 +4,28 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Peter's Archive에 오신 것을 환영합니다
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+안녕하세요! 이곳은 개발, 학습, 그리고 일상의 기록을 저장하는 개인 아카이브입니다.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## 👨‍💻 About Me
 
+- **이름**: [당신의 이름]
+- **관심사**: 개발, 학습, 기술
+- **GitHub**: [hoonick91](https://github.com/hoonick91)
 
-[jekyll-organization]: https://github.com/jekyll
+## 📚 이 블로그는...
+
+- 개발 과정에서 배운 것들
+- 유용한 코드 스니펫과 팁
+- 프로젝트 경험 공유
+- 기술 관련 생각 정리
+
+## 🔗 Contact
+
+- GitHub: [@hoonick91](https://github.com/hoonick91)
+- Email: [your-email@example.com]
+
+---
+
+*이 블로그는 Jekyll과 Just the Docs 테마로 만들어졌습니다.*
